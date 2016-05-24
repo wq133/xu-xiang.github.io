@@ -28,5 +28,4 @@ xux 的 Blog 就这么开通了。
 之前的博客是用ghost搭建的，这次想尝试下jekyll
 
 <p id = "build"></p>
----
 
