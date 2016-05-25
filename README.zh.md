@@ -1,4 +1,5 @@
-_layouts/page.html    是首页侧边栏
+_layouts/page.html    首页侧边栏
+_layouts/post.html    文章页面（_post中文章的页面）
 
 
 
