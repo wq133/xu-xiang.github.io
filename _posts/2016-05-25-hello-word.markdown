@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      "hello world"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2016-05-25 0:10:00
