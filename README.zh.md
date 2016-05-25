@@ -1,3 +1,8 @@
+_layouts/page.html    是首页侧边栏
+
+
+
+
 # Hux blog 模板
 
 ### [我的博客在这里](http://huxpro.github.io)
