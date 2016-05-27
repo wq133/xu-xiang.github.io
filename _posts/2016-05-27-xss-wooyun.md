@@ -13,4 +13,4 @@ tags:
 
 ###利用附件实现XSS
 
- 1.[邮箱的附件预览](http://blog.csdn.net/guodongxiaren "	一处缺陷引发xss，导致qq、企业邮、126、163、yeah、189等邮箱接连躺着中枪 ")
+ 1.[邮箱的附件预览](http://wooyun.org/bugs/wooyun-2015-0138419"一处缺陷引发xss，导致qq、企业邮、126、163、yeah、189等邮箱接连躺着中枪 ")
