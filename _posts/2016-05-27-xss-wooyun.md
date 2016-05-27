@@ -12,6 +12,7 @@ tags:
 ## XSS乌云经典案例整理
 
 XSS基础
+
  1.[什么都没过滤的入门xss](http://www.wooyun.org/bugs/wooyun-2010-015957 "那些年我们一起学XSS - 1. 什么都没过滤的入门情况")
 
 
